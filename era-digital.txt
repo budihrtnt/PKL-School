@@ -4,3 +4,4 @@ Rencana tugas pkl
 - Laravel
 - Bootstrap
 - Photography
+- GIT&GITHUB
