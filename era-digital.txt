@@ -7,4 +7,4 @@ Rencana tugas pkl
 - GIT&GITHUB
 - Isi Laporan Harian era.id
 - Isi Journal
-- CSS
+- Html Dasar
