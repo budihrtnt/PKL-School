@@ -5,3 +5,5 @@ Rencana tugas pkl
 - Bootstrap
 - Photography
 - GIT&GITHUB
+- Isi Laporan Harian era.id
+- Isi Journal
