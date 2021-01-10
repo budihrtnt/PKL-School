@@ -1,0 +1,6 @@
+Rencana tugas pkl
+- Back en
+- Front en
+- Laravel
+- Bootstrap
+- Photography
